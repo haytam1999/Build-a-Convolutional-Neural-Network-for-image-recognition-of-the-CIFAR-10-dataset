@@ -16,5 +16,7 @@ The model will be deployed in a web application using flask.
 For more details check the attached notebooks.
 
 #############################
+
 Test accuracy obtained: 0.90
+
 #############################
